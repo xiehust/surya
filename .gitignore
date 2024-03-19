@@ -5,7 +5,6 @@ experiments
 test_data
 training
 wandb
-notebooks
 results
 data
 slices
